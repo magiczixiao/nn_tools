@@ -1,3 +1,13 @@
+# Tips for using this tool in Lab611
+ 1.Please use .37 server.
+ 2.Open a new terminal and activate env: py3
+ command:`source activate py3`
+ 3.Test pytorch and caffe enviroment.
+ command:`python`->`import torch`->`import caffe`
+ 4.Use the tools as below.
+ (Example: please see file `example/alexnet_pytorch_to_caffe.py`. Just Run `python3 example/alexnet_pytorch_to_caffe.py`)
+
+
 # Neural Network Tools: Converter, Constructor and Analyser
 
  Providing a tool for some fashion neural network frameworks.
